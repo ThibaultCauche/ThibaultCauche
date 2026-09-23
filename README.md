@@ -1,6 +1,7 @@
 # Thibault Cauche
 
-Développeur fullstack & mobile — React, .NET, Flutter.
+Développeur fullstack & mobile
+React, .NET, Flutter.
 
 Je conçois et développe des applications web et mobiles de bout en bout, de la maquette UX/UI au déploiement, avec un goût particulier pour l'auto-hébergement : la plupart de mes projets personnels tournent sur mon propre NAS plutôt que sur un cloud tiers.
 
@@ -14,10 +15,10 @@ Je conçois et développe des applications web et mobiles de bout en bout, de la
 
 ## Projets phares
 
-- 🛹 **[ChewlinBoard](https://github.com/ThibaultCauche/ChewlinBoard)** — app Flutter de vente et personnalisation de skateboards (aperçu 3D, paiement Stripe, back-office admin)
-- 🎵 **[Vinland](https://github.com/ThibaultCauche/vinland)** — lecteur de musique streamant depuis mon NAS auto-hébergé, avec playlists collaboratives
-- 💻 **[Portfolio](https://github.com/ThibaultCauche/portfolio)** — ce site, Next.js / TypeScript / Tailwind / Framer Motion
-- 🏋️ **[GymTimer](https://github.com/ThibaultCauche/GymTimer)** — suivi de séances de musculation avec chronomètre en tâche de fond
+- 🛹 **[ChewlinBoard](https://github.com/ThibaultCauche/ChewlinBoard)** app Flutter de vente et personnalisation de skateboards (aperçu 3D, paiement Stripe, back-office admin)
+- 🎵 **[Vinland](https://github.com/ThibaultCauche/vinland)** lecteur de musique streamant depuis mon NAS auto-hébergé, avec playlists collaboratives
+- 💻 **[Portfolio](https://github.com/ThibaultCauche/portfolio)** ce site, Next.js / TypeScript / Tailwind / Framer Motion
+- 🏋️ **[GymTimer](https://github.com/ThibaultCauche/GymTimer)** suivi de séances de musculation avec chronomètre en tâche de fond
 
 ## Me contacter
 
